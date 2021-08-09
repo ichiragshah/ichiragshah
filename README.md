@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chirag Shah!</h1>
 
-<p align="center">A passionate full-stack developer with over 6 years of experience in building web applications using cutting edge technologies ❤️‍🔥 </p>
+<h3 align="center">A passionate full-stack developer with over 6 years of experience in building web applications using cutting edge technologies ❤️‍🔥 </h3>
 
 <br>
 
 ## ❤️ What I love
----
 
 - Optimizing and scaling systems for a high number of users.
 - Writing tools to automate and optimize processes.
@@ -18,7 +17,6 @@
 <br>
 
 ## 💡 Technologies
----
 
 <p> Talk to me about </p>
 
@@ -110,7 +108,6 @@
 <br>
 
 ## 🤩 Find me at
----
 
 <p>
 I'm passionate, driven, and love to meet and brainstorm with interesting people, so get in touch
@@ -118,7 +115,7 @@ I'm passionate, driven, and love to meet and brainstorm with interesting people,
 
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchiragshah1309&screen_name=chiragshah1309)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/chiragshah1309?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchiragshah1309&screen_name=chiragshah1309)  
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chirag-shah-27264a55/)  
 [![Medium Follow](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shah.chirag1309)  
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4562646/chirag)
