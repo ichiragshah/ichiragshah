@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag Shah!</h1>
 
-<h3 align="center">A passionate full-stack developer with over 6 years of experience in building web applications using cutting edge technologies ❤️‍🔥 </h3>
+<h3 align="center">A passionate full-stack developer with over 7 years of experience in building web applications using cutting edge technologies ❤️‍🔥 </h3>
 
 <br>
 
